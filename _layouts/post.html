@@ -36,7 +36,7 @@ layout: default
 
         <div class="post__meta__bottom">
           {% if author %}
-            <a class="post__author__name" href="{{ author.url }}">{{ author.name }}</a>
+            <a class="post__author__name" href="{{site.baseurl}}{{ author.url }}">{{ author.name }}</a>
           {% else %}
             <a class="post__author__name" href="{{site.baseurl}}/about/">{{ site.data.settings.author.author__name }}</a>
           {% endif %}
