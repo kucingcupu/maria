@@ -1,7 +1,7 @@
 ---
 username: alena
 name: Alena Curtis Whatsherface
-image: '{{site.baseurl}}/images/01-1.jpg'
+image: '/images/01-1.jpg'
 cover:
 location: Mexico
 website: https://www.google.com
