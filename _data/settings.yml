@@ -20,11 +20,11 @@ menu__settings:
       url: '/videos/'
     - title: 'Pages'
       submenu:
-      - url: '{{ site.baseurl }}/about/'
+      - url: '/about/'
         title: 'About'
-      - url: '{{ site.baseurl }}/contact/'
+      - url: '/contact/'
         title: 'Contact'
-      - url: '{{ site.baseurl }}/elements/'
+      - url: '/elements/'
         title: 'Elements'
 
 
@@ -42,7 +42,7 @@ hero:
 author:
   author__name: Alena Curtis
   author__bio: I’m a published content creator, brand copywriter, photographer, and social media content creator and manager. I help brands connect with their customers by developing engaging content that entertains, educates, and offers value to their audience.
-  author__avatar: "{{ site.baseurl }}/images/01-1.jpg"
+  author__avatar: /images/01-1.jpg
 
 
 #-------------------------------
@@ -74,10 +74,10 @@ author__section:
   enable: true
   author__section__title: Hello, my name is Alena. I’m reviewer and content creator.
   author__section__description: I’m a published content creator, brand copywriter, photographer, and social media content creator and manager. I help brands connect with their customers by developing engaging content that entertains, educates, and offers value to their audience.
-  author__section__button__text: More About Me
-  author__section__button__link: "{{ site.baseurl }}/about"
-  author__section__big__image: "{{ site.baseurl }}/images/100.jpg"
-  author__section__small__image: "{{ site.baseurl }}/images/101.jpg"
+  aurhor__section__button__text: More About Me
+  aurhor__section__button__link: /about
+  author__section__big__image: /images/100.jpg
+  author__section__small__image: /images/101.jpg
 
 
 #-------------------------------
@@ -89,7 +89,7 @@ mailchimp__settings:
   mailchimp__identifier: frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3 # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
   mailchimp__input__text: Your email address
   mailchimp__button__text: Subscribe
-  mailchimp__background__image: "{{ site.baseurl }}/images/subscribe-bg.jpg"
+  mailchimp__background__image: /images/subscribe-bg.jpg
 
 
 #-------------------------------
@@ -115,11 +115,11 @@ footer__menu__settings:
     - title: 'Home'
       url: '/'
     - title: 'About'
-      url: '{{ site.baseurl }}/about/'
+      url: '/about/'
     - title: 'Contact'
-      url: '{{ site.baseurl }}/contact/'
+      url: '/contact/'
     - title: 'Elements'
-      url: '{{ site.baseurl }}/elements/'
+      url: '/elements/'
 
 
 #-------------------------------
