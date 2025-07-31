@@ -22,13 +22,13 @@ paginate_path: "/blog/page/:num"
 collections:
   pages:
     output: true
-    permalink: /:name
+    permalink: /maria/:name
   posts:
     output: true
     permalink: /blog/:slug
   authors:
     output: true
-    permalink: /:name
+    permalink: /maria/:name
 
 # Pages Path
 defaults:
