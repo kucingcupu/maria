@@ -1,7 +1,7 @@
 #-------------------------------
 # General Site Settings
 baseurl: "/maria" # the subpath of your site, e.g. /blog
-url: "https://kucingcupu.github.io/maria"
+url: "https://kucingcupu.github.io"
 
 
 
