@@ -1,7 +1,7 @@
 ---
 username: tiana
 name: Tiana Dorwart
-image: '/images/03-1.jpg'
+image: 'maria/images/03-1.jpg'
 cover:
 location: Spain
 website: https://www.google.com
