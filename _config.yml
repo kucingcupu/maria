@@ -1,6 +1,6 @@
 #-------------------------------
 # General Site Settings
-baseurl: "/maria" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 
 
 
