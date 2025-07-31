@@ -20,11 +20,11 @@ menu__settings:
       url: '/videos/'
     - title: 'Pages'
       submenu:
-      - url: '/about/'
+      - url: '{{site.baseurl}}/about/'
         title: 'About'
-      - url: '/contact/'
+      - url: '{{site.baseurl}}/contact/'
         title: 'Contact'
-      - url: '/elements/'
+      - url: '{{site.baseurl}}/elements/'
         title: 'Elements'
 
 
