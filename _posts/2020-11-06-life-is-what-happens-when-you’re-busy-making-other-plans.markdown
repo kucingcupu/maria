@@ -42,10 +42,10 @@ Rote learning is memorizing information so that it can be recalled by the learne
 
 <div class="gallery-box">
   <div class="gallery gallery--post">
-    <img src="/images/32.jpg" loading="lazy" alt="Mountains">
-    <img src="/images/33.jpg" loading="lazy" alt="Woman">
-    <img src="/images/34.jpg" loading="lazy" alt="Subway">
-    <img src="/images/35.jpg" loading="lazy" alt="City">
+    <img src="images/32.jpg" loading="lazy" alt="Mountains">
+    <img src="images/33.jpg" loading="lazy" alt="Woman">
+    <img src="images/34.jpg" loading="lazy" alt="Subway">
+    <img src="images/35.jpg" loading="lazy" alt="City">
   </div>
   <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
 </div>
