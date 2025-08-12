@@ -24,7 +24,7 @@ menu__settings:
         title: 'About'
       - url: '/maria/contact'
         title: 'Contact'
-      - url: 'maria/elements'
+      - url: '/elements'
         title: 'Elements'
 
 
