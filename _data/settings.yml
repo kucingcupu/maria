@@ -22,9 +22,9 @@ menu__settings:
       submenu:
       - url: '/maria/about'
         title: 'About'
-      - url: '/{{site.baseurl}}/contact'
+      - url: '/maria/contact'
         title: 'Contact'
-      - url: '/{{site.baseurl}}/elements'
+      - url: {{site.baseurl}}'/elements'
         title: 'Elements'
 
 
