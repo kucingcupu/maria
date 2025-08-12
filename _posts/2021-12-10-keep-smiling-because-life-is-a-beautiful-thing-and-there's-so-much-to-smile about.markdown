@@ -43,7 +43,7 @@ Rote learning is memorizing information so that it can be recalled by the learne
     <img src="{{ 'images/32.jpg' | relative_url }}" loading="lazy" alt="Mountains">
     <img src="{{ 'images/33.jpg' | relative_url }}" loading="lazy" alt="Woman">
     <img src="{{ 'images/34.jpg' | relative_url }}" loading="lazy" alt="Subway">
-    <img src="{{ '/maria/images/35.jpg' | relative_url }}" loading="lazy" alt="City">
+    <img src="{{ 'images/35.jpg' | relative_url }}" loading="lazy" alt="City">
   </div>
   <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
 </div>
