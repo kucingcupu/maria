@@ -20,11 +20,11 @@ menu__settings:
       url: '/videos/'
     - title: 'Pages'
       submenu:
-      - url: 'about'
+      - url: '/maria/about'
         title: 'About'
-      - url: 'contact'
+      - url: '/maria/contact'
         title: 'Contact'
-      - url: 'elements'
+      - url: '/maria/elements'
         title: 'Elements'
 
 
