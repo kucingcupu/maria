@@ -15,16 +15,16 @@ menu__settings:
     - title: 'Blog'
       url: '/blog/'
     - title: 'Authors'
-      url: '/authors/'
+      url: '/authors'
     - title: 'Videos'
       url: '/videos/'
     - title: 'Pages'
       submenu:
-      - url: '{{site.baseurl}}/about/'
+      - url: '{{site.baseurl}}/about'
         title: 'About'
-      - url: '{{site.baseurl}}/contact/'
+      - url: '{{site.baseurl}}/contact'
         title: 'Contact'
-      - url: '{{site.baseurl}}/elements/'
+      - url: '{{site.baseurl}}/elements'
         title: 'Elements'
 
 
